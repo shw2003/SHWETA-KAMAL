@@ -1,4 +1,4 @@
-![MasterHead(Pic4%20(1).jpg)
+[![MasterHead](Pic4%20(1).jpg)]
 <h1 align="center">I'm Shweta Kamal</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
